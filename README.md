@@ -216,7 +216,7 @@ molokai主题
 
 > 插件管理
 
-1. ####[gmarik/vundle](https://github.com/gmarik/vundle)
+1. #### [gmarik/vundle](https://github.com/gmarik/vundle)
 
     必装,用于管理所有插件
 
@@ -229,7 +229,7 @@ molokai主题
 
 > 导航及搜索
 
-1. ####[scrooloose/nerdtree](https://github.com/scrooloose/nerdtree)
+1. ####  [scrooloose/nerdtree](https://github.com/scrooloose/nerdtree)
 
    必装,开启目录树导航
 
@@ -251,7 +251,7 @@ molokai主题
 
    ![thenerdtree](https://github.com/wklken/gallery/blob/master/vim/thenerdtree.gif?raw=true)
 
-2. ####[fholgado/minibufexpl.vim](https://github.com/fholgado/minibufexpl.vim)
+2. ####  [fholgado/minibufexpl.vim](https://github.com/fholgado/minibufexpl.vim)
 
    必装，buffer管理, 可以查找其他同类插件
 
@@ -262,7 +262,7 @@ molokai主题
             ,bp   切到前一个
             ,bd   关闭当前buffer
 
-2. ####[majutsushi/tagbar](https://github.com/majutsushi/tagbar)
+2. ####  [majutsushi/tagbar](https://github.com/majutsushi/tagbar)
 
    必装,标签导航,纬度和taglist不同
 
@@ -282,7 +282,7 @@ molokai主题
 
    ![taglist](https://github.com/wklken/gallery/blob/master/vim/taglist.png?raw=true)
 
-4. ####[kien/ctrlp.vim](https://github.com/hdima/python-syntax)
+4. ####  [kien/ctrlp.vim](https://github.com/hdima/python-syntax)
 
    文件搜索,ack/Command-T需要依赖于外部包,不喜欢有太多依赖的,除非十分强大, 具体 [文档](http://kien.github.io/ctrlp.vim/)
 
@@ -299,7 +299,7 @@ molokai主题
 
     被动技能,无快捷键
 
-1. ####[Lokaltog/vim-powerline](https://github.com/Lokaltog/vim-powerline)
+1. ####  [Lokaltog/vim-powerline](https://github.com/Lokaltog/vim-powerline)
 
    必装，状态栏美观
 
