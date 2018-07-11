@@ -272,7 +272,7 @@ molokai主题
 
    ![tagbar](https://github.com/wklken/gallery/blob/master/vim/tagbar.gif?raw=true)
 
-3. ####[vim-scripts/taglist.vim](https://github.com/vim-scripts/taglist.vim)
+3. ####  [vim-scripts/taglist.vim](https://github.com/vim-scripts/taglist.vim)
 
    必装
 
@@ -307,7 +307,7 @@ molokai主题
 
    ![powerline](https://github.com/wklken/gallery/blob/master/vim/powerline.png?raw=true)
 
-2. ####[kien/rainbow_parentheses.vim](https://github.com/kien/rainbow_parentheses.vim)
+2. ####  [kien/rainbow_parentheses.vim](https://github.com/kien/rainbow_parentheses.vim)
 
    必装,括号高亮
 
@@ -315,7 +315,7 @@ molokai主题
 
    ![rainbow](https://github.com/wklken/gallery/blob/master/vim/rainbow_parentheses.png?raw=true)
 
-3. ####[Yggdroot/indentLine](https://github.com/Yggdroot/indentLine)
+3. ####  [Yggdroot/indentLine](https://github.com/Yggdroot/indentLine)
 
    选装,装不装看个人喜好了,缩进标识
 
@@ -327,15 +327,15 @@ molokai主题
 
    ![indentline](https://github.com/wklken/gallery/blob/master/vim/indentline.png?raw=true)
 
-4. ####[bronson/vim-trailing-whitespace](https://github.com/bronson/vim-trailing-whitespace)
+4. ####  [bronson/vim-trailing-whitespace](https://github.com/bronson/vim-trailing-whitespace)
 
    将代码行最后无效的空格标红
 
-4. ####[altercation/vim-colors-solarized](https://github.com/altercation/vim-colors-solarized)
+4. ####  [altercation/vim-colors-solarized](https://github.com/altercation/vim-colors-solarized)
 
    经典主题,目前我使用的,看起来舒服
 
-5. ####[tomasr/molokai](https://github.com/tomasr/molokai)
+5. ####  [tomasr/molokai](https://github.com/tomasr/molokai)
 
    用sublime text2的同学应该很熟悉, 另一个主题,可选,偶尔换换味道
 
@@ -343,7 +343,7 @@ molokai主题
 
     主动技能,需要快捷键
 
-1. ####[Lokaltog/vim-easymotion](https://github.com/Lokaltog/vim-easymotion)
+1. ####  [Lokaltog/vim-easymotion](https://github.com/Lokaltog/vim-easymotion)
 
    必装，效率提升杀手锏，跳转到光标后任意位置
 
@@ -367,7 +367,7 @@ molokai主题
     主动技能,需要快捷键,高效编辑无上利器
 
 
-1. ####[Valloric/YouCompleteMe](https://github.com/Valloric/YouCompleteMe)
+1. ####  [Valloric/YouCompleteMe](https://github.com/Valloric/YouCompleteMe)
 
    必装，强烈推荐
 
@@ -411,7 +411,7 @@ molokai主题
 
    ![nerdcommenter](https://github.com/wklken/gallery/blob/master/vim/nerdcomment.gif?raw=true)
 
-3. ####[tpope/vim-surround](https://github.com/tpope/vim-surround)
+3. ####  [tpope/vim-surround](https://github.com/tpope/vim-surround)
 
    必装，很给力的功能，快速给词加环绕符号,例如引号
 
@@ -441,7 +441,7 @@ molokai主题
 
    ![delimitmate](https://github.com/wklken/gallery/blob/master/vim/delimate.gif?raw=true)
 
-5. ####[godlygeek/tabular](https://github.com/godlygeek/tabular)
+5. ####  [godlygeek/tabular](https://github.com/godlygeek/tabular)
 
    选装，代码格式化用的，code alignment
 
@@ -449,7 +449,7 @@ molokai主题
         ,a=  按等号切分格式化
         ,a:  按逗号切分格式化
 
-6. ####[terryma/vim-expand-region](https://github.com/terryma/vim-expand-region)
+6. ####  [terryma/vim-expand-region](https://github.com/terryma/vim-expand-region)
 
    选装，visual mode selection
    视图模式下可伸缩选中部分，用于快速选中某些块
@@ -462,7 +462,7 @@ molokai主题
 
    ![expand-region](https://raw.github.com/terryma/vim-expand-region/master/expand-region.gif)
 
-7. ####[vim-multiple-cursors](https://github.com/terryma/vim-multiple-cursors)
+7. ####  [vim-multiple-cursors](https://github.com/terryma/vim-multiple-cursors)
 
    选装，多光标批量操作
 
@@ -478,7 +478,7 @@ molokai主题
 
 > 语法检查
 
-1. ####[scrooloose/syntastic](https://github.com/scrooloose/syntastic)
+1. ####  [scrooloose/syntastic](https://github.com/scrooloose/syntastic)
 
    建议安装，静态语法及风格检查,支持多种语言
 
@@ -488,7 +488,7 @@ molokai主题
 
    ![syntastic](https://github.com/wklken/gallery/blob/master/vim/syntastic.png?raw=true)
 
-2. ####[kevinw/pyflakes-vim](https://github.com/kevinw/pyflakes-vim)
+2. ####  [kevinw/pyflakes-vim](https://github.com/kevinw/pyflakes-vim)
 
    虽然这个的作者推荐使用syntastic,但是这个插件对于pythoner还是很需要的
 
@@ -504,33 +504,33 @@ molokai主题
     需要其它语言支持的,可以到github上捞,上面很多流行的vim配置,eg. spf13-vim
     以下均为选装，根据自己需要
 
-1. ####[python-syntax](https://github.com/hdima/python-syntax)
+1. ####  [python-syntax](https://github.com/hdima/python-syntax)
 
    使用Python建议安装，python语法高亮,就是python.vim,在github,有维护和更新
 
-4. ####[jnwhiteh/vim-golang](https://github.com/jnwhiteh/vim-golang)
+4. ####  [jnwhiteh/vim-golang](https://github.com/jnwhiteh/vim-golang)
 
    使用golang建议安装， golang语法高亮
 
    golang刚入门使用,项目中还没正式开始,目前很多golang的手册有配置vim的介绍,后续有需求再弄
 
-5. ####[plasticboy/vim-markdown](https://github.com/plasticboy/vim-markdown)
+5. ####  [plasticboy/vim-markdown](https://github.com/plasticboy/vim-markdown)
 
    markdown语法,编辑md文件
 
-6. ####[pangloss/vim-javascript](https://github.com/pangloss/vim-javascript)
+6. ####  [pangloss/vim-javascript](https://github.com/pangloss/vim-javascript)
 
    偶尔会看看js,频率不高
 
-7. ####[nono/jquery.vim](https://github.com/nono/jquery.vim)
+7. ####  [nono/jquery.vim](https://github.com/nono/jquery.vim)
 
    jquery高亮
 
-5. ####[thiderman/nginx-vim-syntax](https://github.com/thiderman/nginx-vim-syntax)
+5. ####  [thiderman/nginx-vim-syntax](https://github.com/thiderman/nginx-vim-syntax)
 
    nginx配置文件语法高亮,常常配置服务器很有用
 
-6. ####[Glench/Vim-Jinja2-Syntax](https://github.com/Glench/Vim-Jinja2-Syntax)
+6. ####  [Glench/Vim-Jinja2-Syntax](https://github.com/Glench/Vim-Jinja2-Syntax)
 
    jinja2 语法高亮
 
@@ -539,7 +539,7 @@ molokai主题
 
     根据自身需求自取配置,不需要的话自己注解
 
-1. ####[vim-scripts/TaskList.vim](https://github.com/vim-scripts/TaskList.vim)
+1. ####  [vim-scripts/TaskList.vim](https://github.com/vim-scripts/TaskList.vim)
 
    查看并快速跳转到代码中的TODO列表
 
@@ -552,14 +552,14 @@ molokai主题
 
    ![tasklist](https://github.com/wklken/gallery/blob/master/vim/tasklist.gif?raw=true)
 
-2. ####[tpope/vim-fugitive](https://github.com/tpope/vim-fugitive)
+2. ####  [tpope/vim-fugitive](https://github.com/tpope/vim-fugitive)
 
    git插件
 
    不是很习惯,所以用的次数太少,目前和现有配置快捷键有冲突,尚未解决
 
 
-3. ####[sjl/gundo.vim](https://github.com/sjl/gundo.vim)
+3. ####  [sjl/gundo.vim](https://github.com/sjl/gundo.vim)
 
    编辑文件时光机
 
@@ -567,13 +567,13 @@ molokai主题
 
 > 待考察的
 
-1. ####sjl/vitality.vim
+1. ####  sjl/vitality.vim
 
-2. ####vim-scripts/Conque-Shell
+2. ####  vim-scripts/Conque-Shell
 
-3. ####vim-scripts/YankRing.vim
+3. ####  vim-scripts/YankRing.vim
 
-4. ####vim-scripts/auto.git
+4. ####  vim-scripts/auto.git
 
 ------------------------
 
